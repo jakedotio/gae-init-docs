@@ -122,7 +122,7 @@ REFERENCE_DEF = {
         ('login_required', ''),
         ('admin_required', ''),
         ('permission_required', '(permission=None, methods=None)'),
-        ('cron_required', '')
+        ('cron_required', ''),
       ],
     'config': [
         ('config_db', ''),
