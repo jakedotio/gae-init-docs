@@ -7,5 +7,5 @@ header that GAE automatically adds to a scheduled task request.
 It also checks for admin permissions, which allows for testing of
 scheduled tasks.
 
-For more information, see
-[Scheduling Tasks With Cron for Python]https://cloud.google.com/appengine/docs/python/config/cron
+For more information on how to create scheduled tasks in GAE, see
+[Scheduling Tasks With Cron for Python](https://cloud.google.com/appengine/docs/python/config/cron)
